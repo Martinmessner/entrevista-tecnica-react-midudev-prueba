@@ -1,0 +1,17 @@
+#root {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+button {
+  padding: 1em;
+  cursor: pointer;
+}
+
+.div-button-filtro {
+  padding: 2em 0em;
+}
+
