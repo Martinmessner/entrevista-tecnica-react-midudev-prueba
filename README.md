@@ -1,9 +1,7 @@
 
-Practicas y Pruebas Tecnicas React.
-
 https://randomuser.me/api?results=100
 
-Prueba técnica con TypeScript y React
+Prueba técnica con React
 Esto es una prueba técnica de una empresa europea para un sueldo de 55000 €/anuales.
 
 El objetivo de esta prueba técnica es crear una aplicación similar a la que se proporciona en este enlace: https://midu-react-11.surge.sh/. Para lograr esto, debe usar la API proporcionada por https://randomuser.me/.
