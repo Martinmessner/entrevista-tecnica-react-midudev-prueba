@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import './App.css'
-import UserTable from './components/userTables';
+import UserTable from './components/UserTables';
 
 function App() {
 
